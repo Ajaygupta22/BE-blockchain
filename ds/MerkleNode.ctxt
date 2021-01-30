@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=MerkleNode
+comment1.params=hash\ level\ t
+comment1.target=MerkleNode(java.lang.String,\ int,\ crypto.Transaction)
+numComments=2

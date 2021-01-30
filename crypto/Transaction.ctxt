@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Transaction
+comment1.params=sender\ receiver\ amount
+comment1.target=Transaction(java.lang.String,\ java.lang.String,\ int)
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MerkleTree
+comment1.params=transactions
+comment1.target=MerkleTree(crypto.Transaction[])
+comment2.params=
+comment2.target=MerkleNode\ prepareMerkleTree()
+numComments=3

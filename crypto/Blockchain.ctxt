@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Blockchain
+comment1.params=
+comment1.target=Blockchain()
+comment2.params=ts
+comment2.target=void\ makeTransactions(Transaction[])
+comment3.params=
+comment3.target=boolean\ addBlock()
+comment4.params=
+comment4.target=Block\ getLatestBlock()
+comment5.params=
+comment5.target=void\ showAllBlocks()
+numComments=6

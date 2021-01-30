@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=transactions
+comment1.target=void\ run(crypto.Transaction[])
+comment2.params=n
+comment2.target=void\ makeRandomTransactions(int)
+numComments=3
